@@ -2,7 +2,7 @@
 
 **Data & BI / Risk Analyst – SQL · Tableau · Python · Credit & Fraud · Automation**
 
-I design end-to-end analytics solutions for credit risk, fraud detection, and job-market analysis, with a focus on reliability, automation, and clear business impact. My projects are full pipelines: SQL + Python models + monitoring + dashboards + static sites that someone can actually use.
+I design end-to-end analytics solutions for credit risk, fraud detection, and busuness analysis, with a focus on reliability, automation, and clear business impact. My projects are full pipelines: SQL + Python models + monitoring + dashboards + static sites that someone can actually use.
 
 ---
 
