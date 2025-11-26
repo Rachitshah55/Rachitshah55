@@ -30,7 +30,7 @@ If you’re a hiring manager: I’ve designed these projects to be **easy to rev
 ## Skills Snapshot
 
 **Analytics & BI**
-- SQL (PostgreSQL, joins, CTEs, window functions)
+- SQL (PostgreSQL, subquery, view, window functions)
 - Tableau (dashboards, KPIs, cohort/retention views)
 - Excel (pivots, formulas, model-friendly layouts)
 
@@ -44,10 +44,17 @@ If you’re a hiring manager: I’ve designed these projects to be **easy to rev
 - Fraud detection basics: scores, rules, latency monitoring
 - Cohort analysis, retention, customer value
 
-**Automation & Ops**
-- Git + GitHub (branching, READMEs, CI basics)
-- Static site deployment (Cloudflare Pages)
-- Windows Task Scheduler for daily flows
+*Automation & Ops**  
+- Python-based flows for daily credit & fraud scoring and reporting  
+- FastAPI services for scoring APIs and gateways  
+- n8n workflows for glue tasks (notifications, syncing, simple ETL)  
+- Scheduled chains with Windows Task Scheduler (daily + month-end runs)  
+- Automated monitoring & alerts (drift checks + Slack / Gmail bridge)  
+- MLflow & DVC for experiment tracking and data/model versioning
+
+**Tooling & Delivery**  
+- Git & GitHub (clean repos, branching, review-friendly READMEs)  
+- Static site deployment with Cloudflare Pages (project + portfolio sites)
 
 ---
 
